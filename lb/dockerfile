@@ -1,0 +1,8 @@
+# Use the official Nginx image as a base
+FROM nginx
+RUN apt update
+RUN apt install net-tools
+RUN apt install telnet -y
+RUN apt install vim-tiny -y
+# Copy the custom configuration file to the appropriate location
+COPY nginx.conf /etc/nginx/nginx.conf

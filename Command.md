@@ -3,7 +3,7 @@
 
 Command for Run LB on Host Machine:
 
-docker run -it --rm -d -p 8087:80 lb
+$docker run -it --rm -d -p 8087:80 lb
 
 Here 8087 is Host Port and 80 is lb container space port
 

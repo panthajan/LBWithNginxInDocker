@@ -7,7 +7,7 @@ $docker run -it --rm -d -p 8087:80 lb
 
 Here 8087 is Host Port and 80 is lb container space port
 
-Can access LB through>>>http://localhost:8087/
+We can access LB through>>>http://localhost:8087/
 
 Result on First HIT: 
 

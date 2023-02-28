@@ -27,3 +27,6 @@ Result on Second HIT in Host Browser:
 
 ![image](https://user-images.githubusercontent.com/19544130/221406584-0773092b-ca00-4b08-9539-8c8aa2849338.png)
 
+Result on Third HIT in Host Browser:
+
+![image](https://user-images.githubusercontent.com/19544130/221784253-81533956-d0e4-4536-894c-f099dff015d6.png)

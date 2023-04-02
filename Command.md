@@ -4,13 +4,15 @@
 Docker Image  build Command: 
 1. App1: $docker build -t app1 .
 2. App2: $docker build -t app2 .
-3. LB:  $docker build -t lb .
+3. App3: $docker build -t app3 .
+4. LB:  $docker build -t lb .
 
 Docker Container Run Command:
 
 1. App1: $docker run -d app1
 2. App2: $docker run -d app2
-3. LB: Command for Run LB on Host Machine:
+3. App3: $docker run -d app3
+4. LB: Command for Run LB on Host Machine:
 
 $docker run -it --rm -d -p 8087:80 lb
 
